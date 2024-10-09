@@ -1,1 +1,1 @@
-https://ssgmce1.streamlit.app/
+https://carpricepredictor-byaditya.streamlit.app/
